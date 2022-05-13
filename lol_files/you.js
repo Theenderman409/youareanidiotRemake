@@ -19,7 +19,7 @@ function changeTitle(title) {
 }
 
 function openWindow(url) {
-	aWindow = window.open(url, "_blank", 'menubar=no, status=no, toolbar=no, resizable=no, width=2268, height=4032, titlebar=no, alwaysRaised=yes');
+	aWindow = window.open(url, "_blank", 'menubar=no, status=no, toolbar=no, resizable=no, width=498, height=368, titlebar=no, alwaysRaised=yes');
 }
 
 function procreate() {
