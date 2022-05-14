@@ -79,3 +79,8 @@ function playBall() {
         setTimeout('playBall()', 1);
     }
 }
+
+function loopMe (){
+	document.getElementById("sound").play();
+}
+setInterval(loopMe, 6000);
