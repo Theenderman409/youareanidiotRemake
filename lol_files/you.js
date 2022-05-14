@@ -83,4 +83,4 @@ function playBall() {
 function loopMe (){
 	document.getElementById("sound").play();
 }
-setInterval(loopMe, 6000);
+//setInterval(loopMe, 6000);
