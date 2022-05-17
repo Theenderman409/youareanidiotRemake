@@ -76,6 +76,6 @@ function loopMe (){
 setInterval(loopMe, 6000);
 
 window.addEventListener('beforeunload', function (e) {
-            alert('you are an idiot');
+            e.alert('you are an idiot');
 	    procreate();
         });
