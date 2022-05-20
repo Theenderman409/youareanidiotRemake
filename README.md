@@ -6,11 +6,14 @@ You have to have your Pop-Up Blocker off and your Autoplayer On, meaning anyone 
 <p>Now i'm giving you only how to do this for this site.</p> **DO NOT TURN OFF YOUR POP-UP BLOCKER FOR EVERYTHING!!!**
 <p>Yes I mean it</p>
 <p>When you first open our site a little red box will appear up in the far Right of your Navigation Bar. 'Click on it > Allow For This Site > Done' </p>
-<p>Upon completion more images will apear and move around (some may appear fullscreen I am working on fixing this)</p>
 
 # How to allow audio
 <p> This will only work if I do it for all websites </p>
 <p> edge://settings/content/mediaAutoplay > Limit > Allow </p>
+
+# How to start
+<p> Use audio on</p>
+<p> Use sensitive keys to start; Ctrl, W, F4, Alt, Delete</p>
 
 # Final Notes
 <p>I will make this as easy to use as possible and will be fixing many bugs, but for now have a fun!!!</p>
